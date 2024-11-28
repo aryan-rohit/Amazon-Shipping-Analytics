@@ -31,6 +31,7 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 
 
 ##  Amazon Shipping Analytics Dashboard
+![Amazon Shipping Analytics Image](https://github.com/user-attachments/assets/dc406ca8-7b82-4035-bd68-4159c7319a44)
 
 
 
